@@ -18,7 +18,7 @@ public class Robot extends IterativeRobot {
 	private final double DEADZONE = 0.25, TURN_SHARPNESS = 0.5, SHARPNESS_INCREASE_MAX = 0.9;
 	
 	//TURN_SHARPNESS manipulates the voltage going to the motors, a number nearing 0 would increase
-		//sharpness while a number nearing 1 would decrease sharpness.
+	//sharpness while a number nearing 1 would decrease sharpness.
 	
 	//private double rightIncreaseFactor, leftIncreaseFactor;
 	
