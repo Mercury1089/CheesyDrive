@@ -5,7 +5,7 @@ A replication of team 254's drive system, made by programming member Srihari Sub
 
 ## Building instructions
 1. Pull or clone this repository.
-2. Check the project build path and make sure that the variable "USERLIBS_DIR/TalonSRXLibJava.jar" points to the right directory. In most cases this path should be "%USERPROFILE%/wpilib/java/lib/TalonSRXLibJava.jar".
+2. Make sure to download the CTRE ToolSuite, run the CTR LifePack, and install the CTRE upgrade for the roboRIO.
 3. Run as a "WPILIB Java Deploy".
 4. ...
 5. Profit?
